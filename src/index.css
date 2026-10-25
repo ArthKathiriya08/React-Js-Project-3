@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 20px;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  padding: 12px;
+  background-color: #e4e4e4;
+  color: #171717;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 650px) {
+  body {
+    padding: 8px;
+  }
+}
