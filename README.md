@@ -7,6 +7,13 @@ Watch the code explanation video:
 [Watch the Video](https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwagWPx5i1Y/view?usp=sharing)
 
 
+<a href="https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwagWPx5i1Y/view?usp=sharing">
+  <img
+    src="https://img.shields.io/badge/▶_Watch-Code_Explanation-red?style=for-the-badge"
+    alt="Watch Code Explanation Video"
+  />
+</a>
+
 
 
 ##  Run Locally
