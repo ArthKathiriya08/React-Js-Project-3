@@ -2,7 +2,8 @@ Watch the code explanation video:
 
 https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwaqWPx5i1Y/view?usp=sharing
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwaqWPx5i1Y/view?usp=sharing" title="a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch the Video](https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwaqWPx5i1Y/view?usp=sharing)
+
 
 ##  Run Locally
 
