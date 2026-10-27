@@ -1,20 +1,8 @@
-https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwaqWPx5i1Y/view?usp=sharing
-
-## code explanation 
-
 Watch the code explanation video:
 
-[Watch the Video](https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwagWPx5i1Y/view?usp=sharing)
+https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwaqWPx5i1Y/view?usp=sharing
 
-
-<a href="https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwagWPx5i1Y/view?usp=sharing">
-  <img
-    src="https://img.shields.io/badge/▶_Watch-Code_Explanation-red?style=for-the-badge"
-    alt="Watch Code Explanation Video"
-  />
-</a>
-
-
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1FrXVnBZYUGMX_iHSmG0vVSwaqWPx5i1Y/view?usp=sharing" title="a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##  Run Locally
 
